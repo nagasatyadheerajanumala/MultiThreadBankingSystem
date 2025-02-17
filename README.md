@@ -23,11 +23,11 @@ A **Multithreaded Bank System** that simulates banking transactions, such as dep
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/multithreaded-bank-system.git
+   git clone git@github.com:nagasatyadheerajanumala/MultiThreadBankingSystem.git
    cd multithreaded-bank-system
 
 
-multithreaded-bank-system/
+```multithreaded-bank-system/
 |__main/
   ├── BankSystem.java               # Main class to execute transactions
   ├── Bank.java                     # Bank class that manages accounts and transactions
@@ -35,4 +35,4 @@ multithreaded-bank-system/
   ├── TransactionTask.java          # Defines a transaction task to be run in a separate thread
 └── Exceptions/                   # Folder containing custom exceptions
     ├── InsufficientFundsException.java  # Custom exception for insufficient funds
-    └── InvalidAccountException.java   # Custom exception for invalid account operations
+    └── InvalidAccountException.java   # Custom exception for invalid account operations```
